@@ -1,6 +1,8 @@
 Gota: DataFrames and Data Wrangling for Go
 ==========================================
 
+[![GoDoc](https://godoc.org/github.com/kniren/gota?status.svg)](https://godoc.org/github.com/kniren/gota)
+
 This is an initial implementation of DataFrames for the Go programming
 language (Golang). This is still at a very early stage of development
 and changes to the API are to be expected. *Use at your own risk*.
